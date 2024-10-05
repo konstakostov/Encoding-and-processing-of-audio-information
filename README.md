@@ -39,3 +39,6 @@ To successfully complete the exercise, you will need the following software:
 
 ## Useful Resources
 - <a href="https://www.youtube.com/watch?v=NYhkqXpFAlg">Working with Audio in Python (feat. Pedalboard) on YouTube.</a>
+- - <a href="https://muted.io/note-frequencies/">Note Frequencies</a>
+- <a href="https://www.michael-thomas.com/music/class/chords_notesinchords.htm">Notes in Chords (Major, Minor, 7th, Aug)</a>
+<a href="https://www.mixinglessons.com/bit-depth/">Bit Depth</a>
