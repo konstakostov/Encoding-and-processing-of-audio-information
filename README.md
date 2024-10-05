@@ -1,2 +1,41 @@
 # Encoding and processing of audio information
- Materials for the "Encoding and processing of audio information" class.
+
+<p>
+    This repo will contain information about the "*Encoding and processing of audio information*" laboratory exercises.
+</p>
+
+---
+
+## Required Software
+To successfully complete the exercise, you will need the following software:
+- <a href="https://www.python.org/downloads/">Python 3.9 or higher</a>
+- <a href="https://ffmpeg.org/download.html">FFmpeg</a>
+- IDE (Choose one of the following):
+  - <a href="https://code.visualstudio.com">Visual Studio Code (VS Code)</a>
+  - <a href="https://vscodium.com">VSCodium</a>
+  - <a href="https://www.jetbrains.com/pycharm/download/">PyCharm (Community Edition)</a>
+
+---
+
+## Install required dependencies
+
+1. **Ensure Python and pip are installed**:
+   - Make sure Python is installed on your system, along with `pip`, the Python package manager.
+   - To check if `pip` is installed, run the following command in your terminal or command prompt:
+     ```bash
+     pip --version
+     ```
+
+2. **Run the pip command to install packages**:
+   - <p>Open this project in your chosen IDE, ensuring the project is opened correctly. If the project is set up 
+   properly, the `requirements.txt` file should be in the main project directory.</p>
+   - <p>Open the IDE’s integrated terminal and use the following command to install all dependencies listed in the 
+   `requirements.txt` file:</p>
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+---
+
+## Useful Resources
+- <a href="https://www.youtube.com/watch?v=NYhkqXpFAlg">Working with Audio in Python (feat. Pedalboard) on YouTube.</a>
