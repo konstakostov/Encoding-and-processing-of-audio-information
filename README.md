@@ -9,11 +9,16 @@
 ## Required Software
 To successfully complete the exercise, you will need the following software:
 - <a href="https://www.python.org/downloads/">Python 3.9 or higher</a>
+	- <a href="https://realpython.com/installing-python/#windows-how-to-check-or-get-python">How to install Python</a> 
 - <a href="https://ffmpeg.org/download.html">FFmpeg</a>
+	- <a href="https://www.hostinger.com/tutorials/how-to-install-ffmpeg">How to install FFmpeg</a>
 - IDE (Choose one of the following):
-  - <a href="https://code.visualstudio.com">Visual Studio Code (VS Code)</a>
-  - <a href="https://vscodium.com">VSCodium</a>
-  - <a href="https://www.jetbrains.com/pycharm/download/">PyCharm (Community Edition)</a>
+	- <a href="https://code.visualstudio.com">Visual Studio Code (VS Code)</a>
+		- <a href="https://code.visualstudio.com/docs/setup/setup-overview">How to install VS Code</a> 
+	- <a href="https://vscodium.com">VSCodium</a>
+		- Install manual at the bottom of the official page.
+	- <a href="https://www.jetbrains.com/pycharm/download/">PyCharm (Community Edition)</a>
+		- <a href="https://www.jetbrains.com/help/pycharm/installation-guide.html#silent">How to install PyCharm (Community Edition)</a> 
 
 ---
 
@@ -38,7 +43,7 @@ To successfully complete the exercise, you will need the following software:
 ---
 
 ## Useful Resources
+- <a href="https://www.mixinglessons.com/bit-depth/">Bit Depth</a>
 - <a href="https://www.youtube.com/watch?v=NYhkqXpFAlg">Working with Audio in Python (feat. Pedalboard) on YouTube.</a>
-- - <a href="https://muted.io/note-frequencies/">Note Frequencies</a>
+- <a href="https://muted.io/note-frequencies/">Note Frequencies</a>
 - <a href="https://www.michael-thomas.com/music/class/chords_notesinchords.htm">Notes in Chords (Major, Minor, 7th, Aug)</a>
-<a href="https://www.mixinglessons.com/bit-depth/">Bit Depth</a>
