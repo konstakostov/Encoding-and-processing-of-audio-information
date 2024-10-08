@@ -7,7 +7,13 @@
 ---
 
 ## Required Software
-To successfully complete the exercise, you will need the following software:
+To complete the exercise, you have the following options:
+##### Option 01:
+###### Use MyBinder.org (Online Jupyter environment, no installation required):
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/konstakostov/Encoding-and-processing-of-audio-information/HEAD)
+
+##### Option 02:
+###### Install Python, IDE, and external libraries on your local machine. Recommended Python versions and IDE's are:
 - <a href="https://www.python.org/downloads/">Python 3.9 or higher</a>
 	- <a href="https://realpython.com/installing-python/#windows-how-to-check-or-get-python">How to install Python</a> 
 - <a href="https://ffmpeg.org/download.html">FFmpeg</a>
