@@ -6,6 +6,10 @@
 
 ---
 
+## MyBinder.org link.
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/konstakostov/Encoding-and-processing-of-audio-information/HEAD)
+
+
 ## Required Software
 To successfully complete the exercise, you will need the following software:
 - <a href="https://www.python.org/downloads/">Python 3.9 or higher</a>
