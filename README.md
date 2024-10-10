@@ -10,7 +10,7 @@
 #### To complete the exercise, you have the following options:
 
 ### Option 01:
-#### Use MyBinder.org (Online Jupyter environment, no installation required):
+#### Use MyBinder.org (Online Jupyter environment, no installation required, no registration required):
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/konstakostov/Encoding-and-processing-of-audio-information/HEAD)
 
@@ -51,12 +51,33 @@
 ---
 
 ## Useful Resources
-- <a href="https://www.mixinglessons.com/bit-depth/">Bit Depth</a>
-- <a href="https://www.youtube.com/watch?v=NYhkqXpFAlg">Working with Audio in Python (feat. Pedalboard) on YouTube.</a>
+### General
 - <a href="https://muted.io/note-frequencies/">Note Frequencies</a>
 - <a href="https://www.michael-thomas.com/music/class/chords_notesinchords.htm">Notes in Chords (Major, Minor, 7th, Aug)</a>
+- <a href="https://www.voxforge.org/home">VoxForge</a>
+
+### Lab. 01
+- <a href="https://www.mixinglessons.com/bit-depth/">Bit Depth</a>
+- <a href="https://www.youtube.com/watch?v=NYhkqXpFAlg">Working with Audio in Python (feat. Pedalboard) on YouTube.</a>
+
+
+### Lab. 02
+- <a href="https://youtu.be/spUNpyF58BY">But what is the Fourier Transform? A visual introduction. - 3Blue1Brown</a>
+- <a href="https://youtu.be/bqGjh67x7IU">Understanding FFT in Audio Measurements - Audio Science Review</a>
+- <a href="https://resources.pcb.cadence.com/blog/2020-time-domain-analysis-vs-frequency-domain-analysis-a-guide-and-comparison">Time Domain Analysis vs Frequency Domain Analysis: A Guide and Comparison</a>
+- <a href="https://pressbooks.pub/sound/chapter/frequency-domain-graphs-2/#:~:text=Frequency%20domain%20graphs%20show%20much,strongly%20present%20in%20the%20sound.">FFTs and spectrograms</a>
+- <a href="https://web.mit.edu/~gari/teaching/6.555/lectures/ch_DFT.pdf">Chapter 4 - THE DISCRETE FOURIER TRANSFORM</a>
+- <a href="https://academo.org/demos/spectrum-analyzer/">Spectrum Analyzer</a>
+- <a href="https://download.ni.com/evaluation/pxi/Understanding%20FFTs%20and%20Windowing.pdf">Understanding FFT's and Windowing</a>
+- <a href="https://sensemore.io/what-is-cepstral-analysis/">Cepstral analysis</a>
+- <a href="http://www.practicalcryptography.com/miscellaneous/machine-learning/tutorial-cepstrum-and-lpccs/">A Tutorial on Cepstrum and LPCCs</a>
+- <a href="http://practicalcryptography.com/miscellaneous/machine-learning/guide-mel-frequency-cepstral-coefficients-mfccs/">Mel Frequency Cepstral Coefficient (MFCC) tutorial</a>
+
 
 ## Credits
-Thomas, J. (2009, January 1). 
-Blues guitar loop 1 [Video].
-[YouTube](https://youtu.be/ipnkP7j1yms?list=OLAK5uy_l6sZ_rLGmbIqCpERpdm1WqI2s1UeGN9QM).
+<ul> 
+    <li>Thomas, J. (2009, January 1). Blues guitar loop 1 Accessible at <a href="https://youtu.be/ipnkP7j1yms?list=OLAK5uy_l6sZ_rLGmbIqCpERpdm1WqI2s1UeGN9QM">YouTube</a>.</li>
+    <li>Song Thrush recording by Patrik Åberg, XC26981. Accessible at the <a href="http://www.xeno-canto.org/26981">Link</a>.</li>
+    <li>Humpback whale recording by "The Voices of Glacier Bay Project". Accessible at the <a href="http://www.nps.gov/glba/naturescience/soundclips.htm">Link</a>.</li>
+    <li>Police Siren recording by Vlammenos. Accessible at the <a href="http://soundbible.com/581-Police-Siren-3.html">Link</a>.</li>
+</ul>
