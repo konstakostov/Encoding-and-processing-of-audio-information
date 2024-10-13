@@ -1,16 +1,14 @@
 # Encoding and processing of audio information
 
-<p>
-    This repo will contain information about the "*Encoding and processing of audio information*" laboratory exercises.
-</p>
+This repository will contain information about the "*Encoding and Processing of Audio Information*" laboratory exercises.
 
 ---
 
 ## Required Software
-#### To complete the exercise, you have the following options:
+#### To complete the exercises, you have the following options:
 
 ### Option 01:
-#### Use MyBinder.org (Online Jupyter environment, no installation required, no registration required):
+#### Utilize MyBinder.org to access an online Jupyter environment without installation or registration
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/konstakostov/Encoding-and-processing-of-audio-information/HEAD)
 
@@ -26,14 +24,14 @@
 	- <a href="https://code.visualstudio.com">Visual Studio Code (VS Code)</a>
 		- <a href="https://code.visualstudio.com/docs/setup/setup-overview">How to install VS Code</a> 
 	- <a href="https://vscodium.com">VSCodium</a>
-		- Install manual at the bottom of the official page.
+		- The installation manual is at the bottom of the official page.
 	- <a href="https://www.jetbrains.com/pycharm/download/">PyCharm (Community Edition)</a>
 		- <a href="https://www.jetbrains.com/help/pycharm/installation-guide.html#silent">How to install PyCharm (Community Edition)</a> 
 
-#### Install required dependencies on your local machine
+#### Install the required dependencies on your local machine
 
 1. **Ensure Python and pip are installed**:
-   - Make sure Python is installed on your system, along with `pip`, the Python package manager.
+   - Make sure Python and the Python package manager `pip` are installed on your system.
    - To check if `pip` is installed, run the following command in your terminal or command prompt:
      ```bash
      pip --version
