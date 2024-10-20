@@ -76,6 +76,9 @@ This repository will contain information about the "*Encoding and Processing of 
 - <a href="http://hyperphysics.phy-astr.gsu.edu/hbase/Sound/beat.html#:~:text=When%20two%20sound%20waves%20of,%22beating%22%20or%20producing%20beats.">Beats Theory</a>
 - <a href="https://www.youtube.com/watch?v=twppI9Eizp8">Sound Intensity Level in Decibels & Distance</a>
 - <a href="https://www.youtube.com/watch?v=M-OMq4QsPfY">Beat Frequency Physics Problems</a>
+- <a href="https://www.ansys.com/blog/what-is-auditory-masking">Auditory Masking</a>
+- <a href="https://www.beis.de/Elektronik/Correlation/CorrelationCorrectAndWrong.html">False and Correct Audio Correlation Measurements</a>
+- <a href="https://liquidinstruments.com/blog/cross-correlation-and-spectrum-analysis/#:~:text=Essentially%2C%20cross-correlation%20is%20the,a%20lagged%20version%20of%20itself.">Cross-Correlation</a>
 
 
 ## Credits
