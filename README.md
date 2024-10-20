@@ -81,6 +81,13 @@ This repository will contain information about the "*Encoding and Processing of 
 - <a href="https://liquidinstruments.com/blog/cross-correlation-and-spectrum-analysis/#:~:text=Essentially%2C%20cross-correlation%20is%20the,a%20lagged%20version%20of%20itself.">Cross-Correlation</a>
 
 
+## Lab. 04
+- <a href="https://course.ece.cmu.edu/~ece792/handouts/RS_Chap_LPC.pdf">Linear Predictive Coding of Speech</a>
+- <a href="https://speechprocessingbook.aalto.fi/index.html">Introduction to Speech Processing</a>
+- <a href="https://phonicshero.com/voiced-vs-unvoiced-sounds-whats-the-difference/">Voiced and Unvoiced Sounds</a>
+
+
+
 ## Credits
 <ul> 
     <li>Thomas, J. (2009, January 1). Blues guitar loop 1 Accessible at <a href="https://youtu.be/ipnkP7j1yms?list=OLAK5uy_l6sZ_rLGmbIqCpERpdm1WqI2s1UeGN9QM">YouTube</a>.</li>
