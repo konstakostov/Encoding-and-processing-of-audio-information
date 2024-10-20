@@ -72,6 +72,12 @@ This repository will contain information about the "*Encoding and Processing of 
 - <a href="http://practicalcryptography.com/miscellaneous/machine-learning/guide-mel-frequency-cepstral-coefficients-mfccs/">Mel Frequency Cepstral Coefficient (MFCC) tutorial</a>
 
 
+### Lab. 03
+- <a href="http://hyperphysics.phy-astr.gsu.edu/hbase/Sound/beat.html#:~:text=When%20two%20sound%20waves%20of,%22beating%22%20or%20producing%20beats.">Beats Theory</a>
+- <a href="https://www.youtube.com/watch?v=twppI9Eizp8">Sound Intensity Level in Decibels & Distance</a>
+- <a href="https://www.youtube.com/watch?v=M-OMq4QsPfY">Beat Frequency Physics Problems</a>
+
+
 ## Credits
 <ul> 
     <li>Thomas, J. (2009, January 1). Blues guitar loop 1 Accessible at <a href="https://youtu.be/ipnkP7j1yms?list=OLAK5uy_l6sZ_rLGmbIqCpERpdm1WqI2s1UeGN9QM">YouTube</a>.</li>
