@@ -85,7 +85,8 @@ This repository will contain information about the "*Encoding and Processing of 
 - <a href="https://course.ece.cmu.edu/~ece792/handouts/RS_Chap_LPC.pdf">Linear Predictive Coding of Speech</a>
 - <a href="https://speechprocessingbook.aalto.fi/index.html">Introduction to Speech Processing</a>
 - <a href="https://phonicshero.com/voiced-vs-unvoiced-sounds-whats-the-difference/">Voiced and Unvoiced Sounds</a>
-
+- <a href="https://en.wikipedia.org/wiki/Vocal_tract">Vocal Tract</a>
+- <a href="https://en.wikipedia.org/wiki/Levinson_recursion">Levinson Recursion</a>
 
 
 ## Credits
