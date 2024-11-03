@@ -89,6 +89,16 @@ This repository will contain information about the "*Encoding and Processing of 
 - <a href="https://en.wikipedia.org/wiki/Levinson_recursion">Levinson Recursion</a>
 
 
+## Lab. 05
+- <a href="https://en.wikipedia.org/wiki/Mel_scale">Mel Scale</a>
+- <a href="https://en.wikipedia.org/wiki/Decorrelation">Decorellation</a>
+- <a href="https://medium.com/@MuhyEddin/feature-extraction-is-one-of-the-most-important-steps-in-developing-any-machine-learning-or-deep-94cf33a5dd46">Mel-frequency cepstral coefficients (MFCCs)</a>
+
+
+## Lab. 06
+- <a href="https://www.youtube.com/watch?v=dD6_Bajj2DI&t=1s">The Magic Of Mid Side</a>
+
+
 ## Credits
 <ul> 
     <li>Thomas, J. (2009, January 1). Blues guitar loop 1 Accessible at <a href="https://youtu.be/ipnkP7j1yms?list=OLAK5uy_l6sZ_rLGmbIqCpERpdm1WqI2s1UeGN9QM">YouTube</a>.</li>
