@@ -99,9 +99,19 @@ This repository will contain information about the "*Encoding and Processing of 
 - <a href="https://www.youtube.com/watch?v=dD6_Bajj2DI&t=1s">The Magic Of Mid Side</a>
 
 
+## Lab. 07
+- <a href="https://youtu.be/eOSiH2MbRgg">Ecoplate II Plate Reverb Hardware Demo</a>
+- <a href="https://youtu.be/5qEdMno9B_w">Anasounds Element Analog Spring Reverb</a>
+- <a href="https://youtu.be/XsVF1rySAmU">Spring Reverb vs Plate Reverb: What's The Difference?</a>
+- <a href="https://youtu.be/h3F-8kBAac8">Inside The Abbey Road Reverb Chamber</a>
+
+
 ## Credits
 <ul> 
     <li>Thomas, J. (2009, January 1). Blues guitar loop 1 Accessible at <a href="https://youtu.be/ipnkP7j1yms?list=OLAK5uy_l6sZ_rLGmbIqCpERpdm1WqI2s1UeGN9QM">YouTube</a>.</li>
+    <li>Thomas, J. (2009, January 1). Funk Guitar Electric 39 Accessible at <a href="https://youtu.be/rzkjGVySc0I?list=OLAK5uy_l6sZ_rLGmbIqCpERpdm1WqI2s1UeGN9QM">YouTube</a>.</li>
+    <li>Thomas, J. (2009, January 1). Funk Guitar Electric 40 Accessible at <a href="https://youtu.be/VRgIBTVmRg8?list=OLAK5uy_l6sZ_rLGmbIqCpERpdm1WqI2s1UeGN9QM">YouTube</a>.</li>
+    <li>Thomas, J. (2009, January 1). Funk Guitar Electric 41 Accessible at <a href="https://youtu.be/Cjh0Yy7xQLY?list=OLAK5uy_l6sZ_rLGmbIqCpERpdm1WqI2s1UeGN9QM">YouTube</a>.</li>
     <li>Song Thrush recording by Patrik Åberg, XC26981. Accessible at the <a href="http://www.xeno-canto.org/26981">Link</a>.</li>
     <li>Humpback whale recording by "The Voices of Glacier Bay Project". Accessible at the <a href="http://www.nps.gov/glba/naturescience/soundclips.htm">Link</a>.</li>
     <li>Police Siren recording by Vlammenos. Accessible at the <a href="http://soundbible.com/581-Police-Siren-3.html">Link</a>.</li>
