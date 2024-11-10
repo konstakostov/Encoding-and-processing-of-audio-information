@@ -53,6 +53,8 @@ This repository will contain information about the "*Encoding and Processing of 
 - <a href="https://muted.io/note-frequencies/">Note Frequencies</a>
 - <a href="https://www.michael-thomas.com/music/class/chords_notesinchords.htm">Notes in Chords (Major, Minor, 7th, Aug)</a>
 - <a href="https://www.voxforge.org/home">VoxForge</a>
+- <a href="https://draw.audio">Draw Audio</a>
+
 
 ### Lab. 01
 - <a href="https://www.mixinglessons.com/bit-depth/">Bit Depth</a>
